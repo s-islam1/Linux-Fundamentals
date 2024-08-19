@@ -177,3 +177,7 @@ The link points to the Linux kernel source code for version 6.11-rc4 on the Elix
 
 ### **Summary**
 The Linux kernel's source code is organized into directories that correspond to different subsystems, hardware architectures, and functionalities. Each directory serves a specific purpose, contributing to the overall functionality of the Linux operating system, from hardware interaction to user-space applications. This organization allows developers to work on specific parts of the kernel independently, making it easier to manage and evolve over time.
+
+Also checkout: 
+[- Debian History](https://www.debian.org/doc/manuals/project-history/intro.en.html)
+[- Ubuntu History](https://ubuntu.com/about)
