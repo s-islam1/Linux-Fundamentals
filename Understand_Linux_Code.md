@@ -1,4 +1,4 @@
-#First Version of Linux Kernel:
+# First Version of Linux Kernel:
 
 Access the following Link: [Linux v0.01](https://elixir.bootlin.com/linux/0.01/source)
 
@@ -63,7 +63,7 @@ The link points to the source code of Linux kernel version 0.01, which is the ve
 ### **Summary**
 In Linux kernel version 0.01, the structure is relatively simple but forms the foundation of the more complex and modular structures seen in modern Linux kernels. Each directory in this early kernel serves a distinct purpose, from bootstrapping the system to managing memory, processes, and file systems, reflecting the fundamental tasks that any operating system must perform.
 
-#Latest Version of Linux Kernel (till date August 19th, 2024)
+# Latest Version of Linux Kernel (till date August 19th, 2024)
 
 Access the following Link: [Linux v6.11-rc4](https://elixir.bootlin.com/linux/v6.11-rc4/source)
 
