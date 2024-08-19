@@ -1,4 +1,4 @@
-Access the following Link: [link text](https://elixir.bootlin.com/linux/0.01/source)
+Access the following Link: [Linux v0.01](https://elixir.bootlin.com/linux/0.01/source)
 
 The link points to the source code of Linux kernel version 0.01, which is the very first publicly released version of the Linux kernel by Linus Torvalds. Despite its simplicity compared to modern kernels, it still provides a basic structure that can be recognized in today's Linux kernel. Here's an explanation of the key folders and their purposes in this early version of the kernel:
 
